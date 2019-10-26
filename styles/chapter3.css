@@ -4,9 +4,15 @@ img {
   width: 40%;
   margin-left: 1.5rem;
 }
-
+body {
+background-color:blue;
+}
 .story-area {
   position: relative;
   float: right;
   width: 55%;
+}
+
+body {
+  background-color: aquamarine;
 }
