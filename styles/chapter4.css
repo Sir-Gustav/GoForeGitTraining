@@ -5,6 +5,10 @@ img {
   margin-left: 1.5rem;
 }
 
+h1 {
+  color: rgb(255, 0, 128);
+}
+
 .story-area {
   position: relative;
   float: left;

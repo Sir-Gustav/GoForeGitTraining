@@ -7,6 +7,11 @@ img {
 body {
 background-color:blue;
 }
+
+h1 {
+  color: red;
+}
+
 .story-area {
   position: relative;
   float: right;
